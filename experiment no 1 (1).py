@@ -1,5 +1,5 @@
 #integer
-Roll_no=208
+Roll_no=335
 print(type(Roll_no))
 
 #float
@@ -7,7 +7,7 @@ b=10.5
 print(type(b))
 
 #string
-c="parikshit"
+c="vaishnavi"
 print(type(c))
 
 #boolean
